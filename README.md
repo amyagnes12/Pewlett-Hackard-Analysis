@@ -15,8 +15,8 @@ The purpose of this project is to find the number of retiring employees by title
 ## Summary
 According to retiring_titles.csv, the total of 72,458 roles will need to be filled as the "silver tsunami" starts to impact. From the deliverable 2, I found the list of employees who were born in 1965 and are eligible for the mentorship program. In addition to the employees who were born in 1965, I created another table, mentor_employees.csv, to show the employees who were born between January 1, 1956 and December 31, 1965. This table shows the list of employees who can be the mentors for the next generation who will replace the retiring employees. As shown on the table below, there are total of 167,666 employees who can be the mentors, which implies that there are enough employees to mentor the next generation. 
 	
-	- The number of employees who can be the mentors by title
-	![mentors_by_title](Resources/mentors_by_title.png)
+- The number of employees who can be the mentors by title
+![mentors_by_title](Resources/mentors_by_title.png)
 
-	- The number of employees who are retiring by title  
-    ![retiring_by_title](Resources/retiring_by_title.png)
+- The number of employees who are retiring by title  
+![retiring_by_title](Resources/retiring_by_title.png)
